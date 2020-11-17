@@ -1,0 +1,7 @@
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\bin\Debug\БИПиТ_КР_8.dll.config
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\bin\Debug\БИПиТ_КР_8.dll
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\bin\Debug\БИПиТ_КР_8.pdb
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\obj\Debug\БИПиТ_КР_8.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\obj\Debug\БИПиТ_КР_8.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\obj\Debug\БИПиТ_КР_8.dll
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\БИПиТ_КР_8\obj\Debug\БИПиТ_КР_8.pdb

@@ -1,0 +1,11 @@
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\БИПиТ_КР_8.dll
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\БИПиТ_КР_8.pdb
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\bin\Debug\БИПиТ_КР_8.dll.config
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\obj\Debug\ConsoleHost.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\Анастасия\source\repos\БИПиТ_КР_8\ConsoleHost\obj\Debug\ConsoleHost.pdb
